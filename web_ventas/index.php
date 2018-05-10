@@ -14,6 +14,7 @@ and open the template in the editor.
                 echo "Hola como estas";
             echo "<br>";
                 echo "CAmbio echo desde otra pc";
+        echo "El dia de hoy no modifiquen nada señores"
         ?>
     </body>
 </html>
