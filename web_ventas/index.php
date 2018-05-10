@@ -11,7 +11,9 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-                echo "Hola como estas"
+                echo "Hola como estas";
+            echo "<br>";
+                echo "CAmbio echo desde otra pc";
         ?>
     </body>
 </html>
