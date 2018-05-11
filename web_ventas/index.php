@@ -11,10 +11,10 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-                echo "Hola como estas";
-            echo "<br>";
-                echo "CAmbio echo desde otra pc";
-        echo "El dia de hoy no modifiquen nada señores"
+                echo "empezando a trabahar con github.com";
+                 echo "<br>";
+                echo "Cambio echo desde otra pc";
+                 echo "El dia de hoy no modifiquen nada señores"
         ?>
     </body>
 </html>
